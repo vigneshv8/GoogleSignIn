@@ -1,7 +1,9 @@
 {
   "project_info": {
     "project_number": "501267800801",
-    "project_id": "civic-network-164920"
+    "firebase_url": "https://civic-network-164920.firebaseio.com",
+    "project_id": "civic-network-164920",
+    "storage_bucket": "civic-network-164920.appspot.com"
   },
   "client": [
     {
@@ -12,6 +14,18 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "501267800801-63cdm16g5v05avssba6t52t73hr744n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vvign.googlesignin",
+            "certificate_hash": "567c5d59f81699bc16317c1f3bb6774325356a69"
+          }
+        },
+        {
+          "client_id": "501267800801-um6sji6nvenncihr9c42jn689vhs1pmc.apps.googleusercontent.com",
+          "client_type": 3
+        },
         {
           "client_id": "501267800801-ince1fik3mpkvm0gksqrhbs4lej9m4iv.apps.googleusercontent.com",
           "client_type": 1,
@@ -35,11 +49,16 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501267800801-um6sji6nvenncihr9c42jn689vhs1pmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
-          "status": 1
+          "status": 2
         }
       }
     }
