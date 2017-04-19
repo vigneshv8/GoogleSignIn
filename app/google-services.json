@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501267800801",
+    "project_id": "civic-network-164920"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501267800801:android:58ca3550f6147fcd",
+        "android_client_info": {
+          "package_name": "com.example.vvign.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501267800801-ince1fik3mpkvm0gksqrhbs4lej9m4iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vvign.googlesignin",
+            "certificate_hash": "7cce0511553bb624a3cb87a5ea66363b2d39bec5"
+          }
+        },
+        {
+          "client_id": "501267800801-9spei042ha0h6tqsjbmabo7vqa49a6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayxcDPiqA91jAqiw3AhXAKsE-IP8HLJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
